@@ -1,5 +1,5 @@
 process.env.NODE_DEBUG = "debug";
-process.env.ONLINE = true;
+//process.env.ONLINE = true;
 
 var http = require("http");
 var page = require('./bot/page');

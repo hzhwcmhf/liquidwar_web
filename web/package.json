@@ -8,7 +8,7 @@
     },
     "dependencies": {
         "express": "3.5.1",
-        "mysql": "2.0.0-alpha9"
+        "mysql": "2.2.0"
     }
 }
 
